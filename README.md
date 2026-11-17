@@ -36,6 +36,7 @@ john --wordlist=/usr/share/john/password.lst hash3.txt
 john --show hash1.txt
 ```
 ✅ All three passwords were successfully recovered 
+
 ![file 1](images/01.png)
 ![file 1](images/01-1.png)
 ![file 2 ](images/02.png)
@@ -49,6 +50,7 @@ Hash Calculator — to compute the hash value of the PDF file.
 Password Cracker — to crack that hash and recover the password.
 
 ✅ Password successfully recovered this way as well.
+
 ![hash calculator](images/hc.png)
 ![pasword cracker](images/pc.png)
 
