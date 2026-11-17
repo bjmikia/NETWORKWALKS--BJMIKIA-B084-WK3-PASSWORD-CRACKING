@@ -52,6 +52,11 @@ Password Cracker — to crack that hash and recover the password.
 ![hash calculator](images/hc.png)
 ![pasword cracker](images/pc.png)
 
+![file 1 content](images/1c.png)
+![file 2 content](images/2c.png)
+![file 3 content](images/3c.png)
+
+
 Lessons learned
 The default John wordlist was enough here because the passwords were simple.
 Against more complex passwords, a larger wordlist (e.g. rockyou.txt) would be needed instead.
@@ -105,6 +110,10 @@ Password Cracker — pour casser ce hash et retrouver le mot de passe.
 
 ![hash](images/hc.png)
 ![mot de passe](images/pc.png)
+
+![file 1 content](images/1c.png)
+![file 2 content](images/2c.png)
+![file 3 content](images/3c.png)
 
 Points à retenir
 La wordlist par défaut de John a suffi ici, les mots de passe étant simples.
