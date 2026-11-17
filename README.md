@@ -109,4 +109,4 @@ Password Cracker — pour casser ce hash et retrouver le mot de passe.
 Points à retenir
 La wordlist par défaut de John a suffi ici, les mots de passe étant simples.
 Face à des mots de passe plus complexes, une wordlist plus large (ex. rockyou.txt) serait nécessaire.
-Captures d'écran
+
